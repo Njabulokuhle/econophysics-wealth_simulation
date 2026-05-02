@@ -1,6 +1,6 @@
 # Wealth Distribution Simulator
 
-**One sentence:** Fair, random trades between equal people automatically create extreme inequality.
+Fair, random trades between equal people automatically create extreme inequality.
 
 ## How it works
 
